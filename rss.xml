@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SkyMor]]></title>
         <description><![CDATA[SkyMor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skymor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 00:12:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 00:12:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skymor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4437626-125a-4f36-9743-03ba683f0d39.jpg">]]></description>
+            <link>https://thegrid.ai/skymor/886d7bab-139b-4873-9f2d-8d0cbcd2ea41/index.html</link>
+            <guid isPermaLink="false">886d7bab-139b-4873-9f2d-8d0cbcd2ea41</guid>
+            <pubDate>Tue, 05 Jan 2016 00:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post]]></title>
             <description><![CDATA[<article><h1>First Post</h1><p>Just trying it out </p></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/skymor/first-post/index.html</link>
             <guid isPermaLink="false">a44cea82-ee33-4f19-ace7-148a829447f9</guid>
             <pubDate>Tue, 05 Jan 2016 00:12:03 GMT</pubDate>
         </item>
